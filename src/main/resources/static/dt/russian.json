@@ -11,8 +11,8 @@
   "emptyTable": "В таблице отсутствуют данные",
   "paginate": {
     "first": "Первая",
-    "previous": "Предыдущая",
-    "next": "Следующая",
+    "previous": "<span class='glyphicon glyphicon-menu-left'></span>",
+    "next": "<span class='glyphicon glyphicon-menu-right'></span>",
     "last": "Последняя"
   },
   "aria": {

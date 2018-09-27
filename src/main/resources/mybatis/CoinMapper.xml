@@ -31,10 +31,10 @@
 	    SELECT * FROM catalog.coin  
 	    	<where>      
 	    		<if test="id != null">id=#{id}</if>    
-	    		<if test="currency != ''"> AND currency like '%'||#{currency}||'%'</if>
+	    		<if test="currency != ''"> AND currency ILIKE '%'||#{currency}||'%'</if>
 	    		<if test="value != null"> AND value=#{value}</if>
 	    		<if test="year != null"> AND year=#{year}</if>
-	    		<if test="mint != ''"> AND mint like  '%'||#{mint}||'%'</if>
+	    		<if test="mint != ''"> AND mint ILIKE  '%'||#{mint}||'%'</if>
 	    		<if test="description != ''"> AND description like  '%'||#{description}||'%'</if>
 	    	</where> 
 	    ORDER BY id ASC

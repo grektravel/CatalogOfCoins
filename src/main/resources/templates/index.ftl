@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Catalog of coins</title>
+<title>Каталог монет</title>
 <link rel="stylesheet" type="text/css" href="css/style.css" />
 <link rel="stylesheet" type="text/css"
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -47,7 +47,7 @@
 							<th>Номинал</th>
 							<th>Год</th>
 							<th>Монетный двор</th>
-							<th><span class="glyphicon glyphicon-tasks"></span></th>
+							<th><span class="glyphicon glyphicon-tasks" data-toggle='tooltip' title='Действия'></span></th>
 						</tr>
 					</thead>
 				</table>
@@ -132,7 +132,7 @@
 							<div class="modal-footer">
 								<button type="button" class="btn btn-default"
 									data-dismiss="modal">Отмена</button>
-								<button id="btn-confirm" type="button" class="btn btn-primary">Подтвердить</button>
+								<button id="btn-confirm" type="button" class="btn btn-primary">Удалить</button>
 							</div>
 						</div>
 					</div>

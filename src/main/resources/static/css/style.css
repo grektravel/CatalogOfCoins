@@ -1,3 +1,6 @@
+textarea {
+	resize: none;
+}
 #logo {
     background-image: url(../images/cash-stacks.png);
     background-position: left;
@@ -19,12 +22,6 @@
 .header {
 	border-bottom: 1px solid #e5e5e5;
     margin-bottom: 10px;
-}
-.footer {
-    padding-top: 10px;
-    margin-top: 10px;
-    color: #777;
-    border-top: 1px solid #e5e5e5;
 }
 
 #id {
@@ -79,5 +76,6 @@
 	height: 100px;
 	padding-top: 30px;
 }
+
 
 	

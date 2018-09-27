@@ -34,6 +34,27 @@ INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('ру
 INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('копейка', 10, 2007, 'Московский монетный двор', '');
 INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('копейка', 50, 2006, 'Питерский монетный двор', '');
 INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('рубль', 2, 2001, 'Питерский монетный двор', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('цент', 1, 1989, 'Монетный двор Филадельфии, Пеннсильвания', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('цент', 5, 2008, 'Монетный двор Денвера, Колорадо', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('цент', 10, 2006, 'Монетный двор Сан-Франциско, Калифорния', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('квотер', 1, 1999, 'Монетный двор Денвера, Колорадо', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('доллар', 1, 1959, 'Питерский монетный двор', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('лари', 1, 2012, 'Тбилисский монетный двор', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('лари', 2, 2012, 'Тбилисский монетный двор', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('тетри', 5, 2006, 'Тбилисский монетный двор', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('тетри', 10, 2002, 'Тбилисский монетный двор', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('драм', 2, 1989, 'Монетный двор Филадельфии, Пеннсильвания', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('драм', 5, 2010, 'Ереванский монетный двор', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('драм', 10, 2006, 'Ереванский монетный двор', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('лум', 10, 2006, 'Ереванский монетный двор', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('лум', 20, 1959, 'Ереванский монетный двор', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('пенс', 2, 1979, 'Королевский монетный двор', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('стерлинг', 10, 1988, 'Королевский монетный двор', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('сантим', 25, 1982, 'Парижский монетный двор', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('франк', 10, 1991, 'Парижский монетный двор', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('франк', 1, 2003, 'Парижский монетный двор', '');
+INSERT INTO catalog.coin(currency, value, year, mint, description) VALUES ('сантим', 2, 2005, 'Парижский монетный двор', '');
+
 
 
 

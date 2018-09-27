@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Catalog of coins</title>
+<title>Каталог монет</title>
 <link rel="stylesheet"	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/style.css" />
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
@@ -19,7 +19,7 @@
 						<div class="alert alert-danger" role="alert">Неправильное имя пользователя или пароль</div>
 					</#if>
 				</div>
-				<h3 class="form-login-heading">Авторизация</h3>
+				<h2 class="form-login-heading">Авторизация</h2>
 				<div id="login" class="panel panel-default">					
 					<div class="panel-body">
 						<form role="form" method="post" class="form-login">
