@@ -1,0 +1,83 @@
+#logo {
+    background-image: url(../images/cash-stacks.png);
+    background-position: left;
+    background-size: 70px 70px;
+    background-repeat: no-repeat;
+    height: 70px;
+    padding-top: 6px;
+    padding-left: 80px;
+}
+
+#logout {
+	padding-top: 20px;
+}
+
+#list_coins {
+	width: 100%!important;
+}
+
+.header {
+	border-bottom: 1px solid #e5e5e5;
+    margin-bottom: 10px;
+}
+.footer {
+    padding-top: 10px;
+    margin-top: 10px;
+    color: #777;
+    border-top: 1px solid #e5e5e5;
+}
+
+#id {
+	display: none;
+}
+
+.red {
+	color: red;
+}
+
+.panel-admin {
+	width: 72px;
+}
+.panel-user {
+	width: 20px;
+}
+
+#panel-btns {
+	text-align: right;
+	height:35px;
+	padding-top:6px;
+}
+
+@media screen and (max-width: 767px) {
+	#panel-btns {
+		text-align: center;
+	}
+}
+
+.act {
+	margin-right: 10px;
+}
+
+#modal-confirm .modal-dialog {
+	max-width: 400px;
+}
+
+.form-login-heading {
+	margin-bottom: 10px;	
+	text-align: center;
+}
+
+.form-login .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  padding: 8px;
+  font-size: 15px;
+}
+.login-header {
+	height: 100px;
+	padding-top: 30px;
+}
+
+	
