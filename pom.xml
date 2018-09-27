@@ -7,7 +7,7 @@
 	<groupId>org.numismat</groupId>
 	<artifactId>CatalogOfCoins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>numismat</name>
 	<description>Catalog of coins for numismatist</description>
