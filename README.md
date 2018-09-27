@@ -3,7 +3,7 @@
 The RESTFull Web application for storing information about coins
 
 ### Technologies
- SpringBoot, SpringSecurity, PostgreSQL, MyBatis, Bootstrap, CSS3, Freemarker, JQuery, Java Script, Html5, Log4j 
+ SpringBoot, SpringSecurity, PostgreSQL, MyBatis, Bootstrap, CSS3, Freemarker, JQuery, Java Script, Html5, Slf4j 
 
 ## Getting Started
 
