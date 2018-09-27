@@ -2,6 +2,9 @@
 
 The RESTFull Web application for storing information about coins
 
+### Technologies
+ SpringBoot, SpringSecurity, PostgreSQL, MyBatis, Bootstrap, CSS3, Freemarker, JQuery, Java Script, Html5, Log4j 
+
 ## Getting Started
 
 Clone or download this repository to your local machine
@@ -29,7 +32,7 @@ mvn install
 ```shell
 mvn tomcat7:deploy
 ```
-> Check the connection settings to the Tomcat web application manager in pom.xml
+> Check the connection settings to the Tomcat web application manager in [pom.xml](https://github.com/grektravel/CatalogOfCoins/blob/master/pom.xml)
 ```xml
 <configuration>
 <url>http://localhost:8080/manager/text</url>
@@ -45,7 +48,7 @@ To simple running as a SpringBoot application, run the following command:
 ```shell
 mvn spring-boot:run
 ```
-> pom.xml must be configured for packaging into jar file
+> [pom.xml](https://github.com/grektravel/CatalogOfCoins/blob/master/pom.xml) must be configured for packaging into jar file
 ```xml
 <packaging>jar</packaging>
 ```
